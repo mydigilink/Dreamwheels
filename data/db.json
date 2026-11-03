@@ -1,0 +1,1517 @@
+{
+  "settings": {
+    "siteName": "DreamWheels",
+    "tagline": "Curated classics. Preserved stories.",
+    "whatsapp": "919044988899",
+    "phone": "+91 90449 88899",
+    "email": "info@dreamwheels.in",
+    "address": "DreamWheels Workshop, India",
+    "freeShippingAbove": 999,
+    "shippingFee": 99,
+    "codEnabled": true,
+    "maxUploadImages": 6,
+    "maxUploadMb": 8
+  },
+  "categories": [
+    {
+      "slug": "vintage-bikes",
+      "name": "Vintage Bikes",
+      "label": "Bike",
+      "kicker": "Heritage",
+      "h1": "Vintage & Classic Bikes for Sale",
+      "intro": "Hand-picked vintage motorcycles — Royal Enfield, Jawa, Yezdi, BSA and more — inspected, documented and ready for their next custodian. Buy as-is, restored, or customised to your brief.",
+      "image": "https://images.unsplash.com/photo-1525013066836-c6090f0ad9d8?auto=format&fit=crop&w=1200&q=80",
+      "order": 1,
+      "subcategories": [
+        {
+          "slug": "royal-enfield",
+          "name": "Royal Enfield",
+          "type": "brand",
+          "intro": "Classic Royal Enfield Bullets and Electras, from early cast-iron engines to well-kept 1980s machines."
+        },
+        {
+          "slug": "jawa-yezdi",
+          "name": "Jawa & Yezdi",
+          "type": "brand",
+          "intro": "Two-stroke legends from Mysore — Jawa 250s, Yezdi Roadkings and Classics."
+        },
+        {
+          "slug": "bsa",
+          "name": "BSA",
+          "type": "brand",
+          "intro": "British Small Arms singles and twins, sourced and restored for collectors."
+        },
+        {
+          "slug": "pre-1960",
+          "name": "Pre-1960",
+          "type": "era",
+          "intro": "Motorcycles built before 1960 — the true pre-war and post-war classics."
+        },
+        {
+          "slug": "1960-1980",
+          "name": "1960 – 1980",
+          "type": "era",
+          "intro": "The golden era of Indian roads: Bullets, Jawas and Yezdis from 1960 to 1980."
+        },
+        {
+          "slug": "post-1980",
+          "name": "Post-1980",
+          "type": "era",
+          "intro": "Modern classics from the 1980s onward, easy to own and ride every day."
+        },
+        {
+          "slug": "restored",
+          "name": "Restored",
+          "type": "condition",
+          "intro": "Fully restored machines, finished in our workshop with period-correct parts."
+        },
+        {
+          "slug": "original",
+          "name": "Original",
+          "type": "condition",
+          "intro": "Unrestored, original-condition bikes with honest patina."
+        }
+      ]
+    },
+    {
+      "slug": "vintage-scooters",
+      "name": "Vintage Scooters",
+      "label": "Scooter",
+      "kicker": "Classics",
+      "h1": "Vintage Scooters for Sale",
+      "intro": "Lambretta, Vespa and Bajaj classics — the scooters that put India on two wheels. Every vintage scooter is checked, documented and photographed in detail.",
+      "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80",
+      "order": 2,
+      "subcategories": [
+        {
+          "slug": "lambretta",
+          "name": "Lambretta",
+          "type": "brand",
+          "intro": "Lambretta LI, Series 3 and GP scooters."
+        },
+        {
+          "slug": "vespa",
+          "name": "Vespa",
+          "type": "brand",
+          "intro": "Classic Vespa 150 and Super models."
+        },
+        {
+          "slug": "restored",
+          "name": "Restored",
+          "type": "condition",
+          "intro": "Freshly restored vintage scooters."
+        },
+        {
+          "slug": "original",
+          "name": "Original",
+          "type": "condition",
+          "intro": "Original-condition vintage scooters."
+        }
+      ]
+    },
+    {
+      "slug": "vintage-cars",
+      "name": "Vintage Cars",
+      "label": "Car",
+      "kicker": "Collectors",
+      "h1": "Vintage Cars for Sale",
+      "intro": "Collector-grade vintage and classic cars for sale — from Fiat and Ambassador icons to imported American and British classics. Viewing by appointment.",
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1200&q=80",
+      "order": 3,
+      "subcategories": [
+        {
+          "slug": "ford",
+          "name": "Ford",
+          "type": "brand",
+          "intro": "Classic Ford cars including Mustangs."
+        },
+        {
+          "slug": "fiat",
+          "name": "Fiat",
+          "type": "brand",
+          "intro": "Fiat 1100 and Premier Padmini classics."
+        },
+        {
+          "slug": "restored",
+          "name": "Restored",
+          "type": "condition",
+          "intro": "Restored vintage cars."
+        },
+        {
+          "slug": "original",
+          "name": "Original",
+          "type": "condition",
+          "intro": "Original-condition vintage cars."
+        }
+      ]
+    },
+    {
+      "slug": "sports-bikes",
+      "name": "Sports Bikes",
+      "label": "Sports Bike",
+      "kicker": "Performance",
+      "h1": "Super Bikes & Sports Bikes for Sale",
+      "intro": "Pre-owned super bikes for sale — Kawasaki, Triumph, Ducati and more. Verified history, clean papers and a pre-sale inspection on every sports bike.",
+      "image": "https://images.unsplash.com/photo-1558981285-6f0c94958bb6?auto=format&fit=crop&w=1200&q=80",
+      "order": 4,
+      "subcategories": [
+        {
+          "slug": "kawasaki",
+          "name": "Kawasaki",
+          "type": "brand",
+          "intro": "Kawasaki Ninja super bikes."
+        },
+        {
+          "slug": "triumph",
+          "name": "Triumph",
+          "type": "brand",
+          "intro": "Triumph Daytona and Street Triple."
+        },
+        {
+          "slug": "ducati",
+          "name": "Ducati",
+          "type": "brand",
+          "intro": "Ducati Panigale and Monster."
+        }
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "veh_b0479862fe",
+      "slug": "royal-enfield-bullet-500-1998",
+      "title": "Royal Enfield Bullet 500 (1998)",
+      "category": "vintage-bikes",
+      "subcategories": [
+        "royal-enfield"
+      ],
+      "brand": "Royal Enfield",
+      "model": "Bullet 500",
+      "year": 1998,
+      "condition": "Original",
+      "availability": "Available",
+      "price": 140000,
+      "engine": "",
+      "mileage": "38000 km",
+      "color": "",
+      "location": "Pune",
+      "registration": "Registered in Maharashtra",
+      "summary": "",
+      "description": "Runs well, original paint with some fading on the tank.",
+      "images": [
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": false,
+      "published": true,
+      "source": "sell-your-vehicle",
+      "submissionId": "sub_demo1",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-25T05:30:32.119Z",
+      "createdAt": "2026-10-25T05:29:02.056Z"
+    },
+    {
+      "id": "veh_re1972",
+      "slug": "royal-enfield-bullet-350-1972",
+      "title": "Royal Enfield Bullet 350 (1972)",
+      "category": "vintage-bikes",
+      "subcategories": [
+        "royal-enfield",
+        "1960-1980",
+        "restored"
+      ],
+      "brand": "Royal Enfield",
+      "model": "Bullet 350",
+      "year": 1972,
+      "condition": "Restored",
+      "availability": "Available",
+      "price": 285000,
+      "engine": "346cc cast-iron single",
+      "mileage": "Restored — 0 km since rebuild",
+      "color": "Black & gold pinstripe",
+      "location": "Mumbai",
+      "registration": "Original RC, transferable",
+      "summary": "Frame-off restoration of a 1972 cast-iron Bullet with matching numbers and period-correct finish.",
+      "description": "A matching-numbers 1972 Royal Enfield Bullet 350, stripped to the frame and rebuilt in our workshop.\n\nThe cast-iron engine has a new piston, rings and valves, rebuilt magneto and freshly lined brakes. Tank and mudguards are hand-painted with gold pinstripes in the original pattern.\n\nIt starts on the first or second kick, idles evenly and comes with a full photo log of the restoration.",
+      "images": [
+        "https://images.unsplash.com/photo-1525013066836-c6090f0ad9d8?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:14:35.446Z",
+      "createdAt": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "id": "veh_jawa68",
+      "slug": "jawa-250-type-353-1968",
+      "title": "Jawa 250 Type 353 (1968)",
+      "category": "vintage-bikes",
+      "subcategories": [
+        "jawa-yezdi",
+        "1960-1980",
+        "original"
+      ],
+      "brand": "Jawa",
+      "model": "250 Type 353",
+      "year": 1968,
+      "condition": "Original",
+      "availability": "Available",
+      "price": 345000,
+      "engine": "249cc two-stroke single",
+      "mileage": "41,200 km",
+      "color": "Maroon",
+      "location": "Pune",
+      "registration": "Original RC",
+      "summary": "Unrestored, honest-patina Jawa 250 with original paint and documents.",
+      "description": "An original-paint Jawa 250 Type 353 with honest patina and a known history.\n\nMechanically sorted with a fresh service, new tyres and a rebuilt carburettor — the cosmetics have been left as they are.",
+      "images": [
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1525013066836-c6090f0ad9d8?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:14:35.889Z",
+      "createdAt": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "id": "veh_yezdi85",
+      "slug": "yezdi-roadking-1985",
+      "title": "Yezdi Roadking (1985)",
+      "category": "vintage-bikes",
+      "subcategories": [
+        "jawa-yezdi",
+        "post-1980",
+        "restored"
+      ],
+      "brand": "Yezdi",
+      "model": "Roadking",
+      "year": 1985,
+      "condition": "Restored",
+      "availability": "Reserved",
+      "price": 195000,
+      "engine": "250cc two-stroke single",
+      "mileage": "Restored",
+      "color": "Black",
+      "location": "Bengaluru",
+      "registration": "Original RC",
+      "summary": "Fully restored Roadking with twin exhausts and chrome tank.",
+      "description": "A fully restored Yezdi Roadking finished in gloss black with a chrome tank and twin exhausts.",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": false,
+      "published": true,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-25T05:18:50.193Z",
+      "createdAt": "2026-09-02T10:00:00.000Z"
+    },
+    {
+      "id": "veh_bsa56",
+      "slug": "bsa-gold-star-1956",
+      "title": "BSA Gold Star DBD34 (1956)",
+      "category": "vintage-bikes",
+      "subcategories": [
+        "bsa",
+        "pre-1960",
+        "restored"
+      ],
+      "brand": "BSA",
+      "model": "Gold Star DBD34",
+      "year": 1956,
+      "condition": "Restored",
+      "availability": "Available",
+      "price": null,
+      "engine": "499cc OHV single",
+      "mileage": "Restored",
+      "color": "Silver & chrome",
+      "location": "Mumbai",
+      "registration": "Import documents available",
+      "summary": "A collector-grade Gold Star with clip-ons and swept-back exhaust.",
+      "description": "One of the most sought-after British singles, restored to concours standard. Price on request — viewing by appointment.",
+      "images": [
+        "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1525013066836-c6090f0ad9d8?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-25T05:18:51.803Z",
+      "createdAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "id": "veh_lam64",
+      "slug": "lambretta-li-150-1964",
+      "title": "Lambretta LI 150 Series 3 (1964)",
+      "category": "vintage-scooters",
+      "subcategories": [
+        "lambretta",
+        "restored"
+      ],
+      "brand": "Lambretta",
+      "model": "LI 150 Series 3",
+      "year": 1964,
+      "condition": "Restored",
+      "availability": "Available",
+      "price": 165000,
+      "engine": "148cc two-stroke",
+      "mileage": "Restored",
+      "color": "Ivory & mint",
+      "location": "Pune",
+      "registration": "Original RC",
+      "summary": "Two-tone restored Lambretta with chrome crash bars and period accessories.",
+      "description": "A two-tone Lambretta LI 150 Series 3, restored with a new loom, rebuilt engine and period-correct accessories.",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:14:34.642Z",
+      "createdAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "veh_vespa75",
+      "slug": "vespa-150-super-1975",
+      "title": "Vespa 150 Super (1975)",
+      "category": "vintage-scooters",
+      "subcategories": [
+        "vespa",
+        "original"
+      ],
+      "brand": "Vespa",
+      "model": "150 Super",
+      "year": 1975,
+      "condition": "Original",
+      "availability": "Available",
+      "price": 120000,
+      "engine": "150cc two-stroke",
+      "mileage": "28,000 km",
+      "color": "Light blue",
+      "location": "Delhi",
+      "registration": "Original RC",
+      "summary": "Original-paint Vespa 150 Super, serviced and road-ready.",
+      "description": "An original-condition Vespa 150 Super that has just been serviced and is ready to ride.",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": false,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-25T05:18:52.921Z",
+      "createdAt": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "veh_must67",
+      "slug": "ford-mustang-fastback-1967",
+      "title": "Ford Mustang Fastback (1967)",
+      "category": "vintage-cars",
+      "subcategories": [
+        "ford",
+        "restored"
+      ],
+      "brand": "Ford",
+      "model": "Mustang Fastback",
+      "year": 1967,
+      "condition": "Restored",
+      "availability": "Available",
+      "price": null,
+      "engine": "289 cu in V8",
+      "mileage": "Restored",
+      "color": "Highland green",
+      "location": "Mumbai",
+      "registration": "Import documents available",
+      "summary": "Restored V8 fastback with documented history.",
+      "description": "A restored 1967 Mustang Fastback with a 289 V8 and four-speed manual gearbox. Price on request.",
+      "images": [
+        "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-25T05:18:51.406Z",
+      "createdAt": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "id": "veh_fiat62",
+      "slug": "fiat-1100-1962",
+      "title": "Fiat 1100 (1962)",
+      "category": "vintage-cars",
+      "subcategories": [
+        "fiat",
+        "original"
+      ],
+      "brand": "Fiat",
+      "model": "1100",
+      "year": 1962,
+      "condition": "Original",
+      "availability": "Available",
+      "price": 650000,
+      "engine": "1089cc inline-four",
+      "mileage": "86,000 km",
+      "color": "Cream",
+      "location": "Bengaluru",
+      "registration": "Original RC",
+      "summary": "Well-preserved Fiat 1100 with column shift and original interior.",
+      "description": "A well-kept Fiat 1100 with its original interior, column shift and chrome bumpers.",
+      "images": [
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": false,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:14:30.846Z",
+      "createdAt": "2026-09-18T10:00:00.000Z"
+    },
+    {
+      "id": "veh_zx10r",
+      "slug": "kawasaki-ninja-zx-10r-2018",
+      "title": "Kawasaki Ninja ZX-10R (2018)",
+      "category": "sports-bikes",
+      "subcategories": [
+        "kawasaki"
+      ],
+      "brand": "Kawasaki",
+      "model": "Ninja ZX-10R",
+      "year": 2018,
+      "condition": "Original",
+      "availability": "Available",
+      "price": 1150000,
+      "engine": "998cc inline-four",
+      "mileage": "9,800 km",
+      "color": "Lime green",
+      "location": "Delhi",
+      "registration": "Single owner",
+      "summary": "Single-owner ZX-10R with full service history.",
+      "description": "A single-owner Kawasaki Ninja ZX-10R with a full service history, new tyres and a fresh chain and sprocket set.",
+      "images": [
+        "https://images.unsplash.com/photo-1558981285-6f0c94958bb6?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": true,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:14:30.060Z",
+      "createdAt": "2026-09-20T10:00:00.000Z"
+    },
+    {
+      "id": "veh_daytona",
+      "slug": "triumph-daytona-675-2016",
+      "title": "Triumph Daytona 675R (2016)",
+      "category": "sports-bikes",
+      "subcategories": [
+        "triumph"
+      ],
+      "brand": "Triumph",
+      "model": "Daytona 675R",
+      "year": 2016,
+      "condition": "Original",
+      "availability": "Sold",
+      "price": 725000,
+      "engine": "675cc inline-triple",
+      "mileage": "14,500 km",
+      "color": "White",
+      "location": "Pune",
+      "registration": "Two owners",
+      "summary": "Daytona 675R with Öhlins suspension.",
+      "description": "A Daytona 675R with Öhlins suspension and Brembo monobloc brakes.",
+      "images": [
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "video": "",
+      "spin360": [],
+      "featured": false,
+      "published": false,
+      "source": "dreamwheels",
+      "seoTitle": "",
+      "seoDescription": "",
+      "updatedAt": "2026-10-03T19:15:19.802Z",
+      "createdAt": "2026-07-30T10:00:00.000Z"
+    }
+  ],
+  "parts": [
+    {
+      "id": "prt_harness",
+      "slug": "wiring-harness-royal-enfield-bullet-electra-350-kick-start",
+      "title": "Wiring Harness for Royal Enfield Bullet / Electra 350 (Kick Start)",
+      "sku": "DW-EL-1001",
+      "brand": "DreamWheels",
+      "category": "Electrical",
+      "compatibility": [
+        "Royal Enfield Bullet 350",
+        "Royal Enfield Electra 350 (Kick Start)"
+      ],
+      "price": 1450,
+      "compareAt": 1899,
+      "stock": 24,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Complete plug-and-play wiring loom with colour-coded wires and pre-fitted connectors.",
+      "description": "A complete replacement wiring harness for kick-start Royal Enfield Bullet and Electra 350 models.\n\n- Colour-coded copper wires matching the original layout\n- Pre-crimped connectors, ready to fit\n- Heat-resistant sleeving\n\nWe recommend fitting by a trained mechanic.",
+      "specs": [
+        {
+          "k": "Material",
+          "v": "Copper core, PVC insulation"
+        },
+        {
+          "k": "Start type",
+          "v": "Kick start only"
+        },
+        {
+          "k": "Warranty",
+          "v": "3 months against manufacturing defects"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "prt_clutch",
+      "slug": "clutch-plate-set-royal-enfield-350",
+      "title": "Clutch Plate Set — Royal Enfield 350 (Cast Iron)",
+      "sku": "DW-EN-2001",
+      "brand": "DreamWheels",
+      "category": "Engine & Clutch",
+      "compatibility": [
+        "Royal Enfield Bullet 350"
+      ],
+      "price": 890,
+      "compareAt": 1100,
+      "stock": 40,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Friction and steel plate set for cast-iron Bullet engines.",
+      "description": "A full friction and steel clutch plate set for cast-iron Royal Enfield Bullet 350 engines.",
+      "specs": [
+        {
+          "k": "Contents",
+          "v": "5 friction + 5 steel plates"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-02T10:00:00.000Z"
+    },
+    {
+      "id": "prt_jawatank",
+      "slug": "jawa-250-fuel-tank-chrome",
+      "title": "Jawa 250 Fuel Tank — Chrome Finish",
+      "sku": "DW-BP-3001",
+      "brand": "DreamWheels",
+      "category": "Body Panels",
+      "compatibility": [
+        "Jawa 250 Type 353",
+        "Jawa 250 Type 559"
+      ],
+      "price": 6500,
+      "compareAt": 7800,
+      "stock": 3,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Reproduction fuel tank with triple-layer chrome and knee pads.",
+      "description": "A reproduction Jawa 250 fuel tank, triple-chrome plated, supplied with knee pads and the filler cap.",
+      "specs": [
+        {
+          "k": "Finish",
+          "v": "Triple-layer chrome"
+        },
+        {
+          "k": "Capacity",
+          "v": "13 L"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "id": "prt_headlight",
+      "slug": "yezdi-roadking-headlight-assembly",
+      "title": "Yezdi Roadking Headlight Assembly",
+      "sku": "DW-LT-4001",
+      "brand": "DreamWheels",
+      "category": "Lighting",
+      "compatibility": [
+        "Yezdi Roadking",
+        "Yezdi Classic"
+      ],
+      "price": 2350,
+      "compareAt": 2900,
+      "stock": 11,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Complete headlight shell with reflector, glass and bulb holder.",
+      "description": "A complete Yezdi Roadking headlight assembly — shell, reflector, glass and bulb holder.",
+      "specs": [
+        {
+          "k": "Voltage",
+          "v": "6V / 12V compatible holder"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "prt_lamcarb",
+      "slug": "lambretta-li-150-carburettor-kit",
+      "title": "Lambretta LI 150 Carburettor Rebuild Kit",
+      "sku": "DW-EN-2002",
+      "brand": "DreamWheels",
+      "category": "Engine & Clutch",
+      "compatibility": [
+        "Lambretta LI 150",
+        "Lambretta Series 3"
+      ],
+      "price": 3200,
+      "compareAt": 3800,
+      "stock": 0,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Jets, gaskets, float and needle for a full carburettor rebuild.",
+      "description": "Everything needed to rebuild a Lambretta LI 150 carburettor: jets, gaskets, float and needle.",
+      "specs": [],
+      "published": true,
+      "createdAt": "2026-08-05T10:00:00.000Z"
+    },
+    {
+      "id": "prt_brakeshoe",
+      "slug": "royal-enfield-front-brake-shoe-set",
+      "title": "Royal Enfield Front Brake Shoe Set (7-inch drum)",
+      "sku": "DW-WB-5001",
+      "brand": "DreamWheels",
+      "category": "Wheels & Brakes",
+      "compatibility": [
+        "Royal Enfield Bullet 350",
+        "Royal Enfield Bullet 500"
+      ],
+      "price": 420,
+      "compareAt": 550,
+      "stock": 60,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Asbestos-free lined brake shoes with springs.",
+      "description": "Asbestos-free front brake shoes for the 7-inch drum, supplied with springs.",
+      "specs": [
+        {
+          "k": "Drum size",
+          "v": "7 inch"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "id": "prt_vespapanel",
+      "slug": "vespa-side-panel-pair",
+      "title": "Vespa 150 Side Panel Pair (Steel)",
+      "sku": "DW-BP-3002",
+      "brand": "DreamWheels",
+      "category": "Body Panels",
+      "compatibility": [
+        "Vespa 150 Super",
+        "Vespa VBB"
+      ],
+      "price": 4800,
+      "compareAt": null,
+      "stock": 5,
+      "mode": "enquiry",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Pressed-steel side panels, primed and ready to paint.",
+      "description": "Pressed-steel side panels for the Vespa 150, supplied primed and ready to paint. Shipping is quoted per location, so please enquire before ordering.",
+      "specs": [],
+      "published": true,
+      "createdAt": "2026-08-07T10:00:00.000Z"
+    },
+    {
+      "id": "prt_conversion",
+      "slug": "jawa-6v-to-12v-conversion-kit",
+      "title": "Jawa / Yezdi 6V to 12V Conversion Kit",
+      "sku": "DW-EL-1002",
+      "brand": "DreamWheels",
+      "category": "Electrical",
+      "compatibility": [
+        "Jawa 250 Type 353",
+        "Yezdi Roadking",
+        "Yezdi Classic"
+      ],
+      "price": 2750,
+      "compareAt": 3200,
+      "stock": 9,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Regulator-rectifier, coil and wiring for brighter, reliable lighting.",
+      "description": "Converts a 6V Jawa or Yezdi system to 12V for brighter, more reliable lighting. Includes a regulator-rectifier, coil and wiring.",
+      "specs": [
+        {
+          "k": "Output",
+          "v": "12V DC"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-08T10:00:00.000Z"
+    },
+    {
+      "id": "prt_rim",
+      "slug": "spoked-wheel-rim-19-inch",
+      "title": "19-inch Chrome Spoked Wheel Rim (40 holes)",
+      "sku": "DW-WB-5002",
+      "brand": "DreamWheels",
+      "category": "Wheels & Brakes",
+      "compatibility": [
+        "Royal Enfield Bullet 350",
+        "BSA Gold Star",
+        "Jawa 250 Type 353"
+      ],
+      "price": 3400,
+      "compareAt": 3900,
+      "stock": 2,
+      "mode": "checkout",
+      "images": [
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "short": "Chrome-plated steel rim, 40 spoke holes.",
+      "description": "A chrome-plated 19-inch steel rim with 40 spoke holes, for period-correct wheel builds.",
+      "specs": [
+        {
+          "k": "Size",
+          "v": "WM2-19"
+        },
+        {
+          "k": "Holes",
+          "v": "40"
+        }
+      ],
+      "published": true,
+      "createdAt": "2026-08-09T10:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "pst_buying",
+      "slug": "buying-your-first-vintage-motorcycle",
+      "title": "Buying your first vintage motorcycle: a practical checklist",
+      "excerpt": "Paperwork, matching numbers and the questions to ask before you buy a classic bike.",
+      "cover": "https://images.unsplash.com/photo-1525013066836-c6090f0ad9d8?auto=format&fit=crop&w=1400&q=80",
+      "content": "Buying a vintage motorcycle is part purchase, part adoption. Here is what we check before any bike joins the DreamWheels collection.\n\n## 1. Paperwork first\n\nAn original RC, a clear transfer path and matching engine and frame numbers matter more than shiny paint.\n\n## 2. Listen to it cold\n\nAsk the seller not to warm the bike up before you arrive. A cold start tells you more than any test ride.\n\n## 3. Budget for the first year\n\n- Tyres and tubes\n- A full fluid service\n- Brake shoes and cables\n\nIf you would like a second opinion on a bike you are considering, message us on WhatsApp.",
+      "author": "DreamWheels Team",
+      "tags": [
+        "buying guide",
+        "vintage bikes"
+      ],
+      "published": true,
+      "createdAt": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "id": "pst_restore",
+      "slug": "what-a-frame-off-restoration-involves",
+      "title": "What a frame-off restoration actually involves",
+      "excerpt": "From strip-down to final detailing: the stages of a full restoration and how long each takes.",
+      "cover": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1400&q=80",
+      "content": "A frame-off restoration is the most complete work we do. Every component comes off, gets assessed, and is restored or replaced.\n\n## Strip-down and assessment\n\nWe photograph and tag every part before it is removed.\n\n## Frame and paint\n\nThe frame is blasted, straightened if needed, and painted.\n\n## Engine rebuild\n\nBores, pistons, bearings and seals are checked against factory tolerances.",
+      "author": "DreamWheels Workshop",
+      "tags": [
+        "restoration"
+      ],
+      "published": true,
+      "createdAt": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "id": "pst_scooter",
+      "slug": "lambretta-vs-vespa-which-vintage-scooter",
+      "title": "Lambretta vs Vespa: which vintage scooter suits you?",
+      "excerpt": "Two Italian icons, two very different ownership experiences.",
+      "cover": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1400&q=80",
+      "content": "Both are beautiful, both are rewarding — but they are not the same to own.\n\n## Lambretta\n\nTube frame, centrally mounted engine, and a ride that feels planted.\n\n## Vespa\n\nMonocoque steel body and a side-mounted engine. Parts are generally easier to find.",
+      "author": "DreamWheels Team",
+      "tags": [
+        "vintage scooters"
+      ],
+      "published": true,
+      "createdAt": "2026-09-22T10:00:00.000Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "led_a6925b5e7a",
+      "type": "whatsapp",
+      "module": "Website",
+      "itemName": "General enquiry",
+      "itemId": "",
+      "category": "",
+      "pageUrl": "http://localhost:3000/blog/lambretta-vs-vespa-which-vintage-scooter/",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "userId": "usr_e2a4a4995d",
+      "status": "new",
+      "createdAt": "2026-10-25T06:12:57.533Z"
+    },
+    {
+      "id": "led_d038c9f984",
+      "type": "whatsapp",
+      "module": "Spare Parts",
+      "itemName": "Order DW1002",
+      "itemId": "ord_93f68f6c64",
+      "category": "Order support",
+      "pageUrl": "http://localhost:3000/account/?tab=orders",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "userId": "usr_e2a4a4995d",
+      "status": "new",
+      "createdAt": "2026-10-25T05:50:01.461Z"
+    },
+    {
+      "id": "led_f863c165a0",
+      "type": "whatsapp",
+      "module": "Sell Your Vehicle",
+      "itemName": "Sell enquiry",
+      "itemId": "",
+      "category": "",
+      "pageUrl": "http://localhost:3000/sell-your-bike/",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "userId": "usr_e2a4a4995d",
+      "status": "contacted",
+      "updatedAt": "2026-10-25T05:45:57.941Z",
+      "createdAt": "2026-10-25T05:25:25.755Z"
+    },
+    {
+      "id": "led_187bdebea2",
+      "type": "whatsapp",
+      "module": "Vintage Vehicles Marketplace",
+      "itemName": "Yezdi Roadking (1985)",
+      "itemId": "veh_yezdi85",
+      "category": "Vintage Bikes",
+      "pageUrl": "http://localhost:3000/vintage-bikes/yezdi-roadking-1985/",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "status": "closed",
+      "updatedAt": "2026-10-25T05:46:00.317Z",
+      "createdAt": "2026-10-03T19:43:51.729Z"
+    },
+    {
+      "id": "led_cf08435611",
+      "type": "whatsapp",
+      "module": "Vintage Vehicles Marketplace",
+      "itemName": "Yezdi Roadking (1985)",
+      "itemId": "veh_yezdi85",
+      "category": "Vintage Bikes",
+      "pageUrl": "http://localhost:3000/vintage-bikes/yezdi-roadking-1985/",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "status": "new",
+      "createdAt": "2026-10-03T19:16:18.481Z"
+    },
+    {
+      "id": "led_demo1",
+      "type": "whatsapp",
+      "module": "Vintage Vehicles Marketplace",
+      "itemName": "Royal Enfield Bullet 350 (1972)",
+      "itemId": "veh_re1972",
+      "category": "Vintage Bikes",
+      "pageUrl": "https://www.dreamwheels.in/vintage-bikes/royal-enfield-bullet-350-1972/",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "message": "",
+      "status": "closed",
+      "updatedAt": "2026-10-25T05:46:08.433Z",
+      "createdAt": "2026-10-01T09:12:00.000Z"
+    },
+    {
+      "id": "led_demo2",
+      "type": "form",
+      "module": "Spare Parts",
+      "itemName": "Vespa 150 Side Panel Pair (Steel)",
+      "itemId": "prt_vespapanel",
+      "category": "Body Panels",
+      "pageUrl": "https://www.dreamwheels.in/spare-parts/vespa-side-panel-pair/",
+      "name": "Arjun Mehta",
+      "phone": "+91 98100 00000",
+      "email": "arjun@example.com",
+      "message": "Do you ship to Pune?",
+      "status": "new",
+      "createdAt": "2026-10-02T15:40:00.000Z"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_demo1",
+      "vehicleType": "Bike",
+      "brand": "Royal Enfield",
+      "model": "Bullet 500",
+      "year": 1998,
+      "registrationState": "Maharashtra",
+      "kmsDriven": "38000",
+      "condition": "Runs well, original paint with some fading on the tank.",
+      "expectedPrice": 140000,
+      "name": "Rohan Kulkarni",
+      "phone": "+91 99200 00000",
+      "email": "rohan@example.com",
+      "city": "Pune",
+      "images": [
+        "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "approved",
+      "notes": "",
+      "listingId": "veh_b0479862fe",
+      "updatedAt": "2026-10-25T05:59:43.315Z",
+      "createdAt": "2026-10-02T11:00:00.000Z"
+    }
+  ],
+  "restorations": [
+    {
+      "id": "rst_f0fef02d85",
+      "vehicleType": "Bike",
+      "brand": "Royal Enfield",
+      "model": "gh v",
+      "year": "5158",
+      "condition": "ytfvyutb",
+      "requirements": "Not sure — need advice — fdxgtrfc",
+      "name": "Ankit kashyapv",
+      "phone": "+919876543212",
+      "email": "ankit@mydigilink.biz",
+      "city": "Lucknow",
+      "images": [
+        "/media/mvndmd96-2dacf408.webp"
+      ],
+      "userId": "usr_e2a4a4995d",
+      "status": "new",
+      "notes": "",
+      "createdAt": "2026-10-25T05:17:43.768Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_93f68f6c64",
+      "number": "DW1002",
+      "items": [
+        {
+          "partId": "prt_rim",
+          "slug": "spoked-wheel-rim-19-inch",
+          "title": "19-inch Chrome Spoked Wheel Rim (40 holes)",
+          "sku": "DW-WB-5002",
+          "price": 3400,
+          "qty": 1,
+          "image": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "subtotal": 3400,
+      "shipping": 0,
+      "total": 3400,
+      "customer": {
+        "name": "Ankit kashyap",
+        "phone": "+919876543212",
+        "email": "ankit@mydigilink.biz",
+        "address": "Chowk",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226001"
+      },
+      "userId": "usr_e2a4a4995d",
+      "payment": "cod",
+      "status": "new",
+      "notes": "testy",
+      "updatedAt": "2026-10-25T05:51:03.320Z",
+      "createdAt": "2026-10-25T05:48:57.501Z"
+    },
+    {
+      "id": "ord_f8248655f5",
+      "number": "DW1001",
+      "items": [
+        {
+          "partId": "prt_rim",
+          "slug": "spoked-wheel-rim-19-inch",
+          "title": "19-inch Chrome Spoked Wheel Rim (40 holes)",
+          "sku": "DW-WB-5002",
+          "price": 3400,
+          "qty": 4,
+          "image": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "partId": "prt_headlight",
+          "slug": "yezdi-roadking-headlight-assembly",
+          "title": "Yezdi Roadking Headlight Assembly",
+          "sku": "DW-LT-4001",
+          "price": 2350,
+          "qty": 1,
+          "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "subtotal": 15950,
+      "shipping": 0,
+      "total": 15950,
+      "customer": {
+        "name": "Ankit kashyapv",
+        "phone": "+919876543212",
+        "email": "ankit@mydigilink.biz",
+        "address": "Chowk",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226001"
+      },
+      "payment": "whatsapp",
+      "status": "delivered",
+      "notes": "",
+      "updatedAt": "2026-10-25T05:48:37.817Z",
+      "createdAt": "2026-10-25T04:05:46.300Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr_e2a4a4995d",
+      "name": "Ankit kashyap",
+      "email": "ankit@mydigilink.biz",
+      "password": "9bf8aae9848a5ae3d25177c4304276ef:414acacf359252d5df3b4eb8189225c237e57587181a46c765fac8242de9e18ebeb1e023c0c3789573862a016f26a998bbaae1b4b3e245d7b7308cf55dc6bbe3",
+      "provider": "email",
+      "createdAt": "2026-10-25T04:36:49.100Z",
+      "saved": [
+        {
+          "type": "part",
+          "id": "prt_vespapanel",
+          "at": "2026-10-25T05:11:45.923Z"
+        },
+        {
+          "type": "part",
+          "id": "prt_rim",
+          "at": "2026-10-25T05:11:44.326Z"
+        }
+      ],
+      "addresses": [
+        {
+          "id": "adr_c29116df98",
+          "label": "Home",
+          "name": "Ankit kashyap",
+          "phone": "+919876543212",
+          "address": "Chowk",
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "pincode": "226001",
+          "isDefault": true
+        }
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id": "brd_royal-enfield",
+      "slug": "royal-enfield",
+      "name": "Royal Enfield",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "United Kingdom / India",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 1,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_jawa",
+      "slug": "jawa",
+      "name": "Jawa",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "Czechoslovakia",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 2,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_yezdi",
+      "slug": "yezdi",
+      "name": "Yezdi",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "India",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 3,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_bsa",
+      "slug": "bsa",
+      "name": "BSA",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "United Kingdom",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 4,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_triumph",
+      "slug": "triumph",
+      "name": "Triumph",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "United Kingdom",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 5,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_norton",
+      "slug": "norton",
+      "name": "Norton",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "United Kingdom",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 6,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_rajdoot",
+      "slug": "rajdoot",
+      "name": "Rajdoot",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "India",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 7,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_kawasaki",
+      "slug": "kawasaki",
+      "name": "Kawasaki",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "Japan",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 8,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_ducati",
+      "slug": "ducati",
+      "name": "Ducati",
+      "logo": "",
+      "types": [
+        "Bike"
+      ],
+      "country": "Italy",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 9,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_bajaj",
+      "slug": "bajaj",
+      "name": "Bajaj",
+      "logo": "",
+      "types": [
+        "Bike",
+        "Scooter"
+      ],
+      "country": "India",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 10,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_lambretta",
+      "slug": "lambretta",
+      "name": "Lambretta",
+      "logo": "",
+      "types": [
+        "Scooter"
+      ],
+      "country": "Italy",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 11,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_vespa",
+      "slug": "vespa",
+      "name": "Vespa",
+      "logo": "",
+      "types": [
+        "Scooter"
+      ],
+      "country": "Italy",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 12,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_fiat",
+      "slug": "fiat",
+      "name": "Fiat",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "Italy",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 13,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_premier",
+      "slug": "premier",
+      "name": "Premier",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "India",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 14,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_hindustan-motors",
+      "slug": "hindustan-motors",
+      "name": "Hindustan Motors",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "India",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 15,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_ford",
+      "slug": "ford",
+      "name": "Ford",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "United States",
+      "founded": "",
+      "description": "",
+      "featured": true,
+      "order": 16,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_chevrolet",
+      "slug": "chevrolet",
+      "name": "Chevrolet",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "United States",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 17,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_jeep",
+      "slug": "jeep",
+      "name": "Jeep",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "United States",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 18,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_mercedes-benz",
+      "slug": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "Germany",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 19,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_volkswagen",
+      "slug": "volkswagen",
+      "name": "Volkswagen",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "Germany",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 20,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_austin",
+      "slug": "austin",
+      "name": "Austin",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "United Kingdom",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 21,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "brd_morris",
+      "slug": "morris",
+      "name": "Morris",
+      "logo": "",
+      "types": [
+        "Car"
+      ],
+      "country": "United Kingdom",
+      "founded": "",
+      "description": "",
+      "featured": false,
+      "order": 22,
+      "published": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}
